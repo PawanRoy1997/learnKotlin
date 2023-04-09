@@ -1,5 +1,5 @@
 ## Introduction to Kotlin:
- - [ ] Basics of Kotlin
+ - [x] [Basics of Kotlin](documentation/Basics%20of%20kotlin.md)
  - [ ] Setting up development environment
  - [ ] Basic syntax and data types
  - [ ] Control structures and functions
